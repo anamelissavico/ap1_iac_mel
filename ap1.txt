@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt voluptatibus amet quia, necessitatibus, obcaecati harum ea cupiditate atque officiis autem, tempore suscipit fuga. Qui voluptatibus repellendus quos cumque laborum vel.   
+>>>>>>> feature_2
 
 
 
@@ -11,6 +15,7 @@
 
 
 
+<<<<<<< HEAD
 
 AP1 ta demaisss!!!
 
@@ -29,3 +34,8 @@ Gdaitx passou de novo
 художником, как в эти минуты. Когда от милой моей долины поднимается пар 
 и полдневное солнце стоит над непроницаемой чащей темного леса и лишь редкий 
 луч проскальзывает в его святая святых, а я лежу в высокой траве
+=======
+To aqui so pelo conflito
+
+Vai dar conflito, sera?
+>>>>>>> feature_2
